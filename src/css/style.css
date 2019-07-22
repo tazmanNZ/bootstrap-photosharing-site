@@ -56,3 +56,10 @@ section#feature ul li {
 section#feature ul {
   padding: 0;
   margin: 0; }
+
+section#title-bar {
+  padding: 0;
+  margin: 0;
+  height: 80px;
+  background: #1caa98;
+  color: white; }
